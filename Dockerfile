@@ -23,4 +23,4 @@ CMD [ "npm", "start" ]
 RUN npm run build
 
 # Stop the application with the `npm stop` command
-CMD [ "npm", "stop" ] 
+#CMD [ "npm", "stop" ] 
